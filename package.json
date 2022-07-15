@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/leomacode/release-test/issues"
   },
-  "homepage": "https://github.com/leomacode/release-test#readme"
+  "homepage": "https://github.com/leomacode/release-test#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "husky": "^8.0.1"
+  }
 }
