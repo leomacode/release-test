@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/leomacode/release-test/compare/v1.2.1...v1.3.0) (2022-07-18)
+
+
+### Features
+
+* add a message feature ([611e5ba](https://github.com/leomacode/release-test/commit/611e5baf169ffccf3b0d91a5847321484ad36809))
+
 ### [1.2.1](https://github.com/leomacode/release-test/compare/v1.2.0...v1.2.1) (2022-07-18)
 
 ## [1.2.0](https://github.com/leomacode/release-test/compare/v1.1.0...v1.2.0) (2022-07-18)
