@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/leomacode/release-test/compare/v1.1.0...v1.2.0) (2022-07-18)
+
+
+### Features
+
+* add the ad display feature ([dfa16d3](https://github.com/leomacode/release-test/commit/dfa16d3322eeee10dea12bffbd1310c5b843d792))
+
 ## 1.1.0 (2022-07-17)
 
 
